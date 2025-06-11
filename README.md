@@ -1,4 +1,5 @@
-# WeatherAUS Dataset - My Project
+# WeatherAUS Dataset - My Project 
+(you can download trained parameters)
 
 ## Overview
 
@@ -39,7 +40,7 @@ The data is stored in CSV format with columns for each of the weather features a
 
 For convenience, you can download the trained model parameters from Google Drive. This will allow you to skip the training step and directly apply the pre-trained model to make predictions on new data.
 
-[**Download Trained Parameters**](https://drive.google.com/file/d/12kZfPEJsYKSEfJyMwTPPYuZvQ_RKl1t-/view?usp=drive_link)
+[**Download Trained Parameters**](https://drive.google.com/drive/folders/1BS2oGu2vhVV-XtLkAChpC-w1Iulb6A0G?usp=drive_link)
 
 ## Requirements
 
